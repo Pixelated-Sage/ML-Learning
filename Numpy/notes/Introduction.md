@@ -16,5 +16,24 @@
 - Array is faster then list.
 - Array can't store different datatypes
 
+**Functions**
+- `a.shape` - array dimensions
+- `len(a)` - Length of array
+- `b.ndim` - Number of array dimensions
+- `e.size` - Number of array elements
+- `b.dtype `- data type of array elements
+- `b.astype(int)` - Convert on array to a different type
 
-Code--
+**Mathematical Operations and Functions on Arrays**
+
+- `g = a-b`
+- `np.subtract(a,b)`
+- `b+an`
+- `p.add(b,a)`
+- `a/b`
+- `np.divide(a,b)`
+- `a*b`
+- `np.multiply(a,b)`
+- `np.exp(b)`
+- `np.sqrt(b)`
+- `np.pow(a)`
