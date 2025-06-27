@@ -5,47 +5,25 @@ This repo reflects what I’m learning, building, and understanding in **real ti
 
 ---
 
-## 🔥 Currently Completed
+## ✅ Completed So Far
 
-### ✅ NumPy
-- Array creation and manipulation
-- Vectorized operations
-- Indexing & slicing
-- Math & aggregate functions
-
-### ✅ Pandas
-- Series & DataFrames
-- Data cleaning
-- Filtering, sorting, grouping
-- Handling missing values
-- Importing/exporting CSVs
+- [x] Python Basics
+- [x] NumPy
+- [x] Pandas
 
 ---
 
 ## 📚 Resources Used
 
-- **Udemy Course:** Complete Machine Learning with Python  
 - **Notes:** All major concepts are summarized in Markdown files  
 - **Practice:** Jupyter Notebooks and Python Scripts for each topic
+- **Udemy Courses**
+- **Youtube Videos**
 
----
-
-## 📂 Folder Structure
-ML-Learning/
-├── Numpy/
-│ ├── notes.md
-│ └── numpy_practice.ipynb
-├── Pandas/
-│ ├── notes.md
-│ └── pandas_practice.ipynb
-└── README.md
-
-
----
 
 ## 📌 What's Next?
 
-- 📈 Learn **Matplotlib & Seaborn**
+- 📈 Learning **Matplotlib & Seaborn**
 - 🔍 Dive into **Scikit-learn**
 - 🤖 Start building **basic ML models**
 - 🧠 Apply models into **real Django + React projects**
